@@ -3,8 +3,12 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <br/>
 
 <!-- -->
@@ -14,6 +18,8 @@
 ![apachetomcat](https://img.shields.io/badge/tomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 ![mocha](https://img.shields.io/badge/mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
+![chai](https://img.shields.io/badge/chai-A30701.svg?&style=for-the-badge&logo=chai&logoColor=white)
+![etl](https://img.shields.io/badge/etl-A90533.svg?&style=for-the-badge&logo=etl&logoColor=white)
 <br/>
 
 <!-- -->
@@ -23,6 +29,8 @@
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![mongoose](https://img.shields.io/badge/mongoose-880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white)
+![jpa](https://img.shields.io/badge/jpa-34E27A.svg?&style=for-the-badge&logo=jpa&logoColor=white)
+![mybatis](https://img.shields.io/badge/mybatis-97979A.svg?&style=for-the-badge&logo=mybatis&logoColor=white)
 <br/>
 
 <!-- -->
@@ -34,8 +42,17 @@
 <br/>
 
 <!-- -->
+![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-C71D23.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![vault](https://img.shields.io/badge/vault-D24939.svg?&style=for-the-badge&logo=vault&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-D24939.svg?&style=for-the-badge&logo=jira&logoColor=white)
+![confluence](https://img.shields.io/badge/confluence-172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white)
+![sentry](https://img.shields.io/badge/sentry-362D59.svg?&style=for-the-badge&logo=sentry&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
+![centos](https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
 
 
 
