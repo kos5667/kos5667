@@ -1,5 +1,8 @@
-### Hi there 👋
-![Don's GitHub](https://github-readme-stats.vercel.app/api?username=kos5667&show_icons=true&theme=radical)
+### Skills
+<img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge"/>
+
+### Github Status
+![Don's GitHub](https://github-readme-stats.vercel.app/api?username=kos5667&show_icons=true&theme=highcontrast)
 
 <!--
 **kos5667/kos5667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
