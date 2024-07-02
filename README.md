@@ -27,8 +27,6 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![mongoose](https://img.shields.io/badge/mongoose-880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white)
 ![jpa](https://img.shields.io/badge/jpa-34E27A.svg?&style=for-the-badge&logo=jpa&logoColor=white)
 ![mybatis](https://img.shields.io/badge/mybatis-97979A.svg?&style=for-the-badge&logo=mybatis&logoColor=white)
 <br/>
