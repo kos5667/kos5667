@@ -1,5 +1,5 @@
 ### Skills
-<!-- -->
+<!-- Languges -->
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,7 +51,6 @@
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![centos](https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white)
-![grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
 
 
