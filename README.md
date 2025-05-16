@@ -1,7 +1,7 @@
 ## Github Status
 ![Don's GitHub](https://github-readme-stats.vercel.app/api?username=kos5667&show_icons=true&theme=highcontrast)
 
-## 📝 New Doc
+## 📝 New Doc(TEST 중입니다.)
 ### 2025-06-12 [Node.js와 Redis 사용법](https://github.com/kos5667/next.js-tech-blog/blob/main/posts/Redis/2025-06-12-Node_With_Redis.md)
 node js 와 Redis 사용법을 설명한다.
 
