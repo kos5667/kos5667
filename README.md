@@ -1,6 +1,3 @@
-## Github Status
-![Don's GitHub](https://github-readme-stats.vercel.app/api?username=kos5667&show_icons=true&theme=highcontrast)
-
 ## 📝 New Doc
 ### 2025-06-11 [Spring TEST!!!!](https://github.com/kos5667/next.js-tech-blog/blob/main/posts/Java/Spring/2025-06-11-Spring_Test.md)
 ![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logoColor=white&logo=spring)
